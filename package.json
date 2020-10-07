@@ -1,0 +1,27 @@
+{
+  "name": "color",
+  "version": "1.0.0",
+  "description": "Color class",
+  "main": "./src/Color.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitti-katy/color.git"
+  },
+  "keywords": [
+    "color"
+  ],
+  "author": "Yekaterina Ankudinova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kitti-katy/color/issues"
+  },
+  "homepage": "https://github.com/kitti-katy/color#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.11.5",
+    "babel-jest": "^26.5.2",
+    "jest": "^26.5.2"
+  }
+}
