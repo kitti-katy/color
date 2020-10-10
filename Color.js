@@ -23,7 +23,7 @@ import {
     HSVtoRGB,
     HSVtoHEX,
     HSVtoCMYK
-  } from './color-format-converter/Converter';
+  } from 'color-format-converter/Converter';
 
 
 class Color {
